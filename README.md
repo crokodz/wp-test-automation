@@ -1,5 +1,5 @@
-####wp-test-automation
-###Test automation project for Buggy Cars Rating
+#### wp-test-automation
+### Test automation project for Buggy Cars Rating
 ### Test Approach
 1. Break the test into smaller scenarious for datailed and efficient coverage.
 2. For the manual test it will be done in guidance of the test cases which I assume its already created before starting the project, if none I preffer to build it first. 
