@@ -3,8 +3,8 @@
 ### Test Approach
 1. Break the test into smaller scenarious for datailed and efficient coverage.
 2. For the manual test it will be done in guidance of the test cases which I assume its already created before starting the project, if none I preffer to build it first. 
-3. For the UI automation test,  I will create a per page scenarious then create an end to end scenarious, I will also include checking of security feature. I will use DBB approach as it can be aligned with the testcases, In this project I will use the tools C# with specflow, selenium, and shouldy. I will set a per environment config and can be run in the pipeline after deployment.
-4. For the API Automation test, I will use DBB approach as it can be aligned with the testcases.  I will use the tools C# with specflow, restsharp. I will set a per environment config and can be run in the pipeline after deployment.
+3. For the UI automation test,  I will create a per page scenarious then create an end to end scenarious, I will also include checking of security feature. I will use BDD approach as it can be aligned with the testcases, In this project I will use the tools C# with specflow, selenium, and shouldy. I will set a per environment config and can be run in the pipeline after deployment.
+4. For the API Automation test, I will use BDD approach as it can be aligned with the testcases.  I will use the tools C# with specflow, restsharp. I will set a per environment config and can be run in the pipeline after deployment.
 
 
 ### Features
