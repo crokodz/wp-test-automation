@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<RunConfiguration>
+		<EnvironmentVariables>
+			<!-- List of environment variables -->
+      <WebUrl>https://buggy.justtestit.org/</WebUrl>
+      <UserName>efrenvaldez</UserName>
+      <UserPassword>4gK7GC@iB3aZLSN</UserPassword>
+      <AuthUrl>https://k51qryqov3.execute-api.ap-southeast-2.amazonaws.com/prod/oauth/token</AuthUrl>
+      <ApiUrl>https://k51qryqov3.execute-api.ap-southeast-2.amazonaws.com</ApiUrl>
+    </EnvironmentVariables>
+	</RunConfiguration>
+</RunSettings>

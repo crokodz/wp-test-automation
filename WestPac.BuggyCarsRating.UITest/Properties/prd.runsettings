@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<RunConfiguration>
+		<EnvironmentVariables>
+			<!-- List of environment variables -->
+      <WebUrl>https://buggy.justtestit.org/</WebUrl>
+      <UserName>efrenvaldez</UserName>
+      <UserPassword>4gK7GC@iB3aZLSN</UserPassword>
+    </EnvironmentVariables>
+	</RunConfiguration>
+</RunSettings>
