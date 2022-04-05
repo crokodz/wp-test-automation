@@ -23,14 +23,14 @@
 - Selenium
 - Speckflow
 
-###How to run in your local machine
+### How to run in your local machine
 - Clone the repository to your local machine
 - Restore all Nuget Packages
 - Build
 - Set the test runsetting according to the environment you want to test.
 - runsettings is located in Properties folder
 
-###How to run in azure pipeline
+### How to run in azure pipeline
 - Create a pipeline
 - Create a release
 - Set the variables according to the environment
